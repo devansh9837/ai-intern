@@ -15,20 +15,15 @@
 }
 
 .timer{
-  position: relative;
-  top: 20%;
-  left: 50%;
-  transform: translate(-50%, -125%);
-  -ms-transform: translate(-50%, -50%);
+  position: absolute;
+  top: 20px;
+  left: 850px;
+  font-size: 18px;
   background-color: transparent;
-  color: black;
-  font-size: 16px;
+  color:white;
   font-weight: bold;
-  padding: 20px 15px;
   border-color: white;
   cursor: pointer;
-  border-radius: 50%;
-  text-align: center;
 }
 
 .maiin .buton1 {
